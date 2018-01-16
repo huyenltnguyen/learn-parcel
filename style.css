@@ -1,0 +1,12 @@
+@import './background.scss';
+
+#wrap {
+  align-content: center;
+  align-items: center;
+  border: 1px solid #333;
+  border-radius: 4px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, .2);
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+}

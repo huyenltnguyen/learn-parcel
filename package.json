@@ -1,0 +1,25 @@
+{
+  "name": "learn-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyenltnguyen/learn-parcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyenltnguyen/learn-parcel/issues"
+  },
+  "homepage": "https://github.com/huyenltnguyen/learn-parcel#readme",
+  "dependencies": {
+    "autoprefixer": "^7.2.5"
+  },
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}

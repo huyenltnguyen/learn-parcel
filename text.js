@@ -1,0 +1,1 @@
+export const text = 'Parcel is kinda cool!';
